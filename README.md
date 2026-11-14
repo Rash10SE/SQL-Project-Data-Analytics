@@ -1,2 +1,2 @@
-# SQL-Project-Data-Analytics
+# 🚀 SQL Data Warehouse Analytics Project
 This project demonstrates an end-to-end data analytics workflow using a structured SQL Data Warehouse (DataWarehouseAnalytics). It covers database creation, automated data ingestion via bulk loading, database exploration, and advanced data analytics using modern T-SQL techniques. The codebase is organized into modular scripts that transform raw data assets into actionable business insights, focusing on dimensions, measures, trends, performance, and ranking models.
